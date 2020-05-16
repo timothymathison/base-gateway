@@ -1,0 +1,11 @@
+{
+  "name": "base-gateway",
+  "description": "Express Gateway instance for routing home lab requests",
+  "repository": {},
+  "license": "UNLICENSED",
+  "version": "0.1.0",
+  "main": "server.js",
+  "dependencies": {
+    "express-gateway": "^1.16.10"
+  }
+}
